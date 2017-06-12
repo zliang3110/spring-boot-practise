@@ -1,0 +1,2 @@
+application.title = "Spring-boot Practice"
+application.version= v2.0
